@@ -49,6 +49,6 @@
 
 
 
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/rutwik_05
+[instagram]: https://instagram.com/rutwik2001
+[linkedin]: https://linkedin.com/in/Rutwik Pasumarthi
