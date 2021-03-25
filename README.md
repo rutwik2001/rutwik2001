@@ -1,4 +1,4 @@
-### Hi there, I'm Rutwik 👋
+# Hi there, I'm Rutwik 👋
 
 
 ## I'm a Student and Developer!!
