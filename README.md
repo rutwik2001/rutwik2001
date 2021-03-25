@@ -51,4 +51,4 @@
 
 [twitter]: https://twitter.com/rutwik_05
 [instagram]: https://instagram.com/rutwik2001
-[linkedin]: www.linkedin.com/in/rutwik-pasumarth
+[linkedin]: www.linkedin.com/in/rutwik-pasumarthi
