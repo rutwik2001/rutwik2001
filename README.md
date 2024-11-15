@@ -6,8 +6,7 @@
 - 👀 I’m interested in Blockchain Technology
 - 🌱 I’m currently learning Web Development and Blockchain Development
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Want to be a Blockchain developer
-- ⚡ Fun fact: I love to wirte stories
+- ⚡ Fun fact: I love to write stories
 
 
 ### Connect with me:
